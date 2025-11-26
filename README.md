@@ -14,4 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Name
+Name: Panizares, John Henry
+Education: 
+Certifications
+Skillsets
