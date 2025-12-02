@@ -16,8 +16,10 @@ Here are some ideas to get you started:
 -->
 Name: Panizares, John Henry
 
-Education:
+Education: 2nd year Bachelor of Science in Information Systems at New Era University
 
 Certifications: https://courses.cognitiveclass.ai/certificates/f645c62624bc4c15818d3b227e724f8b
 
-Skillsets
+Skillsets: Analytical / IT Problem-Solving Skills, Troubleshooting hardware and software issues, Soft Skills
+
+Team collaboration and communication
