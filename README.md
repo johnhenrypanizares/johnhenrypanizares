@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 Name: Panizares, John Henry
 
-Education: 
+Education:
 
-Certifications
+Certifications: https://courses.cognitiveclass.ai/certificates/f645c62624bc4c15818d3b227e724f8b
 
 Skillsets
