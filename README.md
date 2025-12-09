@@ -19,6 +19,7 @@ Name: Panizares, John Henry
 Education: 2nd year Bachelor of Science in Information Systems at New Era University
 
 Certifications: https://courses.cognitiveclass.ai/certificates/f645c62624bc4c15818d3b227e724f8b
+https://www.linkedin.com/posts/coby-panizares-82b597399_become-an-oci-ai-foundations-associate-2025-activity-7404177318115479552-9D0J?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGHL2OMB6ZhG0jwbRhPq75VkTCjbqkejxho
 
 Skillsets: Analytical / IT Problem-Solving Skills, Troubleshooting hardware and software issues, Soft Skills
 
