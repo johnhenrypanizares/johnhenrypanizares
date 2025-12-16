@@ -21,9 +21,10 @@ Education: 2nd year Bachelor of Science in Information Systems at New Era Univer
 Certifications: 
 
 SQL and Relational Databases 101:
+
 https://courses.cognitiveclass.ai/certificates/f645c62624bc4c15818d3b227e724f8b
 
-Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate:                                                                    
+Become An OCI AI Foundations Associate (2025):                                                                    
 
 https://catalog-education.oracle.com/ords/certview/sharebadge?id=63C2E27DF3ECA116DA287173163E0D1A37F2D0FA820D7199EE4D8CB1C3817BC3
 
