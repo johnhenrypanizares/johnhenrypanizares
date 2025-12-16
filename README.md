@@ -27,6 +27,13 @@ Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate:
 
 https://catalog-education.oracle.com/ords/certview/sharebadge?id=63C2E27DF3ECA116DA287173163E0D1A37F2D0FA820D7199EE4D8CB1C3817BC3
 
+Become an Oracle Data Platform Foundations Associate:
+
+https://catalog-education.oracle.com/pls/certview/sharebadge?id=99C994B3CAA11B54D5D5D237F5DF944A16920E00E7BC00F5F620A1FA291DF0D9
+
+Become An OCI Foundations Associate (2025):
+
+https://catalog-education.oracle.com/pls/certview/sharebadge?id=2B5FFB30D2703C1C32937A498014735D2C09625241D5592B965C0B07BAE65CD6
 
 Skillsets: Analytical / IT Problem-Solving Skills, Troubleshooting hardware and software issues, Soft Skills
 
